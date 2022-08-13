@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @srikrishnan-punalur
+- 👋 Hi, I’m Dr.Srikrishnan Sundararajan
 - 💞️ You can reach-out to me at srikrishnan.punalur@gmail.com
 - 📫 Please remember to add 'MVT-ML' as the first word in the subject line
 
